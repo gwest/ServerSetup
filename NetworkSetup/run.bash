@@ -1,0 +1,1 @@
+ADMIN_PORT=8091 DOCKER_DOMAIN=www.garrywest.uk ACME_EMAIL=letsencrypt@garrywest.uk docker-compose up -d

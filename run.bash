@@ -1,0 +1,1 @@
+DOMAIN_NAME="garrywest.uk" USER_ID="1000" GROUP_ID="998" docker-compose up -d
